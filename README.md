@@ -12,7 +12,7 @@
 For this task, you will practice writing basic Python programs and pushing your code to GitHub using the **Git CLI**.  
 There is **no separate report** for this task.  
 
-👉 Two PDF guides will be provided:  
+Two PDF guides will be provided:  
 -  [**First Year PDF**](task1_first_year.pdf) → Python basics 
 - [**Second Year PDF**](task1_second_year.pdf) → Slightly advanced Python concepts
 
