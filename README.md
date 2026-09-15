@@ -7,7 +7,7 @@
 
 ---
 
-## 📄 Task Description  
+## Task Description  
 
 For this task, you will practice writing basic Python programs and pushing your code to GitHub using the **Git CLI**.  
 There is **no separate report** for this task.  
@@ -42,7 +42,7 @@ YourRepoName/
 - Name your `.py` files meaningfully (e.g., `program1.py`, `program2.py`).  
 
 
-## 📚 Learning Resources
+## Learning Resources
 
 * [OOPs in Python](https://youtu.be/IbMDCwVm63M?si=BzcbLEGDVdSmYShx)
 * [Entire Python Course](https://youtu.be/eWRfhZUzrAc?si=vVpBrXgGN9o6QfPC)
